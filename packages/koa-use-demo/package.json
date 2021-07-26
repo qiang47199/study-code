@@ -1,0 +1,15 @@
+{
+    "name": "koa-use-demo",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "serve": "node index.js"
+    },
+    "dependencies": {
+        "my-koa": "1.0.0"
+    },
+    "devDependencies": {
+        "koa": "^2.13.1"
+    }
+}

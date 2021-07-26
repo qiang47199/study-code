@@ -1,0 +1,13 @@
+{
+    "name": "study-code",
+    "version": "1.0.0",
+    "description": "代码学习使用",
+    "repository": "https://github.com/qiang47199/study-code",
+    "author": "qiang47199",
+    "license": "MIT",
+    "workspaces":[
+      "packages/*"
+    ],
+    "private": true
+  }
+  
