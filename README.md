@@ -1,15 +1,7 @@
 # study-code
 
-## 目录
+## 项目信息
 
-``` js
-.
-├── packages
-│   ├── vue2-demo    // Vue2项目案例
-│   ├── koa-use-demo // koa demo
-│   └── my-koa       // my-koa
-├── .gitignore
-├── package.json
-├── README.md
-└── yarn.lock
-```
+记录平时学习代码
+
+
